@@ -21,4 +21,4 @@
 #main()
 
 
-**customConfig_* File must be made for each signature to be analyzed**
+customConfig_* File must be made for each signature to be analyzed
